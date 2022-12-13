@@ -1,6 +1,2 @@
 greetings:
           mgs: hello, welcome to spring cloud tut
-
-application:
-           port : 8080
-           url : localhost
